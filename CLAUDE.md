@@ -13,3 +13,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - コミットメッセージは変更内容が分かるように簡潔に書く（日本語・英語どちらでも可）。
 - 破壊的な操作（`git push --force`、`git reset --hard` など）は必ず事前にユーザーに確認する。
 - 機密情報（APIキー、パスワード、トークンなど）を含むファイルはコミットしない。
+
+## デプロイ情報
+
+- 本番URL：https://realestate-app.vercel.app
+- Supabaseプロジェクト名：realestate-app
